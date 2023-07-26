@@ -1,0 +1,13 @@
+*{margin: 0;padding: 0;background: gold; }
+
+.container{ width: 100%; height: auto;}
+.heading{text-align: center; font-size: 40px; margin-bottom: 20px; position: sticky;}
+.navbar{text-align: center;margin: 20px;}
+.menu-card{width: 350px;height: auto; border: 2px solid; text-align: left; padding: 10px; float: left;}
+.menu.index{margin: 5px;}
+.menu-category{font-weight: 200; margin: 5px;}
+.m-5{margin: 5px;}
+.menu-body{text-align: justify;margin: 5px;}
+.menu-img{scroll-behavior: smooth;}
+
+.btngrp{margin: 2px;}
